@@ -215,8 +215,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  Weibo: https://weibo.com/u/7333855371
+#  Weibo: https://weibo.com/u/7333855371
   Twitter: https://twitter.com/jen_dystopia_c
+  Archive: https://archiveofourown.org/users/Bacteria_C
 
 
 # Social Links Icons
@@ -231,6 +232,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Archive: archive
 
 
 # Sidebar Avatar
